@@ -5,6 +5,9 @@
 /.next
 /out
 
+# Vercel project metadata
+/.vercel
+
 # local environment files
 .env*.local
 
@@ -17,3 +20,5 @@ pnpm-debug.log*
 # OS files
 .DS_Store
 Thumbs.db
+
+.vercel
